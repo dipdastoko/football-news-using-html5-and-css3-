@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+/* common styles */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.btn{
+    display: inline;
+    background-color: #E02C6D;
+    color: white;
+    padding: 10px 24px;
+}
+
+/* website headers styles */
+.container{
+    display: flex;
+    background-color: #2D25A0;
+    width: 100%;
+
+}
+.header-title{
+    margin: 163px 0 240px 156px;
+    color: white;
+}
+.header-title h1{
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+.header-title .btn{
+    margin-top: 0px;
+}
+
+.header-image img{
+
+width: 556.01px;
+height: 438px;
+margin: 109px 149px 86px 102px;
+
+}
