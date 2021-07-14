@@ -104,3 +104,18 @@ p{
     height: 427px;
     
 }
+
+/* footers */
+.footer-container{
+    margin-left: 475px;
+    margin-top: 158px;
+}
+
+.footer-container img{
+    width: 262.1px;
+    height: 110px;
+}
+.icons{
+    margin-left: 130px;
+    margin-bottom: 10px;
+}
